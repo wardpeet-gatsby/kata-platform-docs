@@ -162,7 +162,6 @@ module.exports = {
         trackingId: process.env.GATSBY_GA_TRACKING_ID
       }
     },
-    'gatsby-plugin-netlify-cache',
     'gatsby-plugin-netlify'
   ]
 };
