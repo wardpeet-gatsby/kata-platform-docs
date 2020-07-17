@@ -32,7 +32,7 @@
     "clsx": "^1.0.4",
     "date-fns": "^1.30.1",
     "dotenv": "^7.0.0",
-    "gatsby": "^2.8.8",
+    "gatsby": "^2.24.4-static-queries-out-of-webpack.32",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-canonical-urls": "^2.0.13",
     "gatsby-plugin-catch-links": "^2.0.15",
